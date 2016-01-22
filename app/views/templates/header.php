@@ -8,5 +8,5 @@
 
 	</head>
 	<body>
-		<div class="container">
+		<div class="container group">
 			<h1>Zeta PHP Message Board!</h1>

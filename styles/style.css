@@ -33,3 +33,15 @@ label {
 .faded {
     color: #bbb;
 }
+
+.message-history{
+    display: inline-block;
+    width:50%;
+    vertical-align: top;
+}
+
+.enter-form{
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+}
