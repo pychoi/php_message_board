@@ -29,4 +29,9 @@
     </form>
 <div>
 
+<div>
+    <a href="<?php echo BASE_URL; ?>/admin/list.php">Admin</a>
+</div>
+
+
 <?php require VIEW_ROOT . '/templates/footer.php'; ?>
